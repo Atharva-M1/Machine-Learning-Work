@@ -1,2 +1,2 @@
 # Machine-Learning-Work
-Open-source repository of ML Colaboratory notebooks demonstrating a broad spectrum of models and algorithms 
+This repository curates a collection of Colaboratory notebooks I developed throughout my college semesters. The notebooks showcase a comprehensive range of machine learning models and algorithms, providing a valuable resource for students and practitioners alike.This repository curates a collection of Colaboratory notebooks I developed throughout my college semesters. The notebooks showcase a comprehensive range of machine learning models and algorithms, providing a valuable resource for students and practitioners alike.
